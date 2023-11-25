@@ -1,2 +1,2 @@
-# AliceinNumberland
+# AliceInNumberland
 Hybrid publishing 
